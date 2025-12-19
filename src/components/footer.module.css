@@ -1,8 +1,8 @@
 .footer {
   position: fixed;
   background-color: black;
-  color: white;
-  height: 5vh;
+  color: rgb(194, 24, 24);
+  height: 10vh;
   width: 100%;
   bottom: 0;
   text-align: center;
